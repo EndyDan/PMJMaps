@@ -1,0 +1,55 @@
+const campusFloorByName = <String, int>{
+  'PARKING MOTOSIKAL PELAJAR': 0,
+  'PEJABAT HAL EHWAL PELAJAR (HEP)': 1,
+  'BANGUNAN DELIMA SARI (LODGE)': 0,
+  'DEWAN PERMATA MARJAN (DPM)': 0,
+  'PENTADBIRAN (ADMIN)': 0,
+  'POLYSPORT': 0,
+  'WATER RECYCLING PLANTS': 0,
+  'KIOSK': 0,
+  'LAB CYBER RANGE ACADEMY': 0,
+  'LAB FIT 2': 0,
+  'LAB FAD 3': 1,
+  'LAB APLIKASI HIBURAN': 1,
+  'LAB FHY 2': 2,
+  'LAB FIT 1': 2,
+  'LAB FCCN 1': 0,
+  'DEWAN MUTIARA UTAMA (DMU)': 0,
+  'DEWAN MUTIARA 3': 0,
+  'DEWAN MUTIARA 2': 0,
+  'DEWAN MUTIARA 1': 0,
+  'BILIK KULIAH 2 (BK2)': 0,
+  'BILIK KULIAH 1 (BK1)': 0,
+  'LAB HIBURAN DIGITAL': 2,
+  'TECHNOLOGY ENABLED CLASSROOM 1 (TEC1)': 2,
+  'UIDM': 2,
+  'PERPUSTAKAAN NILAM SARI': 0,
+  'JABATAN TEKNOLOGI MAKLUMAT DAN KOMUNIKASI (JTMK)': 0,
+  'FIBER LAB': 2,
+  'BILIK KULIAH 17 (BK17)': 2,
+  'LAB JURUTEKNIK SAINS': 0,
+  'JABATAN KEJURUTERAAN ELEKTRIK (JKE)': 0,
+  'JABATAN PENGAJIAN AM': 1,
+  'TANDAS PELAJAR LELAKI (BLOCK JKE)': 1,
+  'LAB SISTEM ELEKTRONIK': 1,
+  'TANDAS PELAJAR PEREMPUAN (BLOCK JKE)': 1,
+  'LAB MEMBAIKI ELEKTRONIK': 2,
+  'TECHNOLOGY ENABLED COLLABORATIVE CLASSROOM (TECC)': 1,
+  'BILIK KULIAH 24 (BK24)': 2,
+  'LAB KUASA ELEKTRONIK': 2,
+  'POWER SYSTEM & CONTROL WORKSHOP': 0,
+  'RUMAH SOLAR': 0,
+  'DBIZZ': 0,
+};
+
+String? campusFloorLabel(int? floor) => switch (floor) {
+  0 => 'Ground Floor',
+  1 => 'Level 1',
+  2 => 'Level 2',
+  _ => null,
+};
+
+int? campusFloorForName(String name) {
+  final normalized = name.trim().toUpperCase().replaceAll(RegExp(r'\s+'), ' ');
+  return campusFloorByName[normalized];
+}

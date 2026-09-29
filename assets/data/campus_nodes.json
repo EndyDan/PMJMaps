@@ -1,0 +1,346 @@
+[
+  {
+    "name": "FIBER LAB",
+    "latitude": 2.415129117,
+    "longitude": 103.8278784,
+    "elevation": 43.5,
+    "floor": 2,
+    "qrCode": "pmjmaps://location?node_id=fiber-lab&name=FIBER%20LAB&block=Campus&floor=Level%202"
+  },
+  {
+    "name": "PEJABAT HAL EHWAL PELAJAR (HEP)",
+    "latitude": 2.4171502,
+    "longitude": 103.829128233,
+    "elevation": 37.4,
+    "floor": 1,
+    "qrCode": "pmjmaps://location?node_id=pejabat-hal-ehwal-pelajar-hep&name=PEJABAT%20HAL%20EHWAL%20PELAJAR%20%28HEP%29&block=Campus&floor=Level%201"
+  },
+  {
+    "name": "BANGUNAN DELIMA SARI (LODGE)",
+    "latitude": 2.416701733,
+    "longitude": 103.828819467,
+    "elevation": 38.1,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=bangunan-delima-sari-lodge&name=BANGUNAN%20DELIMA%20SARI%20%28LODGE%29&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "DBIZZ",
+    "latitude": 2.416102367,
+    "longitude": 103.829138917,
+    "elevation": 34.2,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=dbizz&name=DBIZZ&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "RUMAH SOLAR",
+    "latitude": 2.415778967,
+    "longitude": 103.828815833,
+    "elevation": 36.4,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=rumah-solar&name=RUMAH%20SOLAR&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "POWER SYSTEM & CONTROL WORKSHOP",
+    "latitude": 2.415702283,
+    "longitude": 103.828635383,
+    "elevation": 37.9,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=power-system-control-workshop&name=POWER%20SYSTEM%20%26%20CONTROL%20WORKSHOP&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "Parking Motosikal Pelajar",
+    "latitude": 2.41723795,
+    "longitude": 103.829289917,
+    "elevation": 38.5,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=parking-motosikal-pelajar&name=Parking%20Motosikal%20Pelajar&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "PENTADBIRAN (ADMIN)",
+    "latitude": 2.416598033,
+    "longitude": 103.828367433,
+    "elevation": 42.3,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=pentadbiran-admin&name=PENTADBIRAN%20%28ADMIN%29&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "POLYSPORT",
+    "latitude": 2.416765767,
+    "longitude": 103.827456317,
+    "elevation": 39.1,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=polysport&name=POLYSPORT&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "DEWAN PERMATA MARJAN (DPM)",
+    "latitude": 2.417226083,
+    "longitude": 103.828283733,
+    "elevation": 40.5,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=dewan-permata-marjan-dpm&name=DEWAN%20PERMATA%20MARJAN%20%28DPM%29&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "WATER RECYCLING PLANTS",
+    "latitude": 2.416163167,
+    "longitude": 103.827081467,
+    "elevation": 39.2,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=water-recycling-plants&name=WATER%20RECYCLING%20PLANTS&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "PADANG PMJ",
+    "latitude": 2.4165358,
+    "longitude": 103.826554183,
+    "elevation": 37.5,
+    "floor": null,
+    "qrCode": "pmjmaps://location?node_id=padang-pmj&name=PADANG%20PMJ&block=Campus&floor=Unknown%20level"
+  },
+  {
+    "name": "KIOSK",
+    "latitude": 2.415710483,
+    "longitude": 103.8270601,
+    "elevation": 41.1,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=kiosk&name=KIOSK&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "LAB FAD 3",
+    "latitude": 2.415820433,
+    "longitude": 103.827251883,
+    "elevation": 48.8,
+    "floor": 1,
+    "qrCode": "pmjmaps://location?node_id=lab-fad-3&name=LAB%20FAD%203&block=Campus&floor=Level%201"
+  },
+  {
+    "name": "LAB FIT 2",
+    "latitude": 2.415824883,
+    "longitude": 103.827252217,
+    "elevation": 34.7,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=lab-fit-2&name=LAB%20FIT%202&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "LAB PEMBANGUNAN APLIKASI 2",
+    "latitude": 2.415980967,
+    "longitude": 103.827337483,
+    "elevation": 42.3,
+    "floor": null,
+    "qrCode": "pmjmaps://location?node_id=lab-pembangunan-aplikasi-2&name=LAB%20PEMBANGUNAN%20APLIKASI%202&block=Campus&floor=Unknown%20level"
+  },
+  {
+    "name": "LAB FHY 2",
+    "latitude": 2.415999617,
+    "longitude": 103.827371783,
+    "elevation": 39.1,
+    "floor": 2,
+    "qrCode": "pmjmaps://location?node_id=lab-fhy-2&name=LAB%20FHY%202&block=Campus&floor=Level%202"
+  },
+  {
+    "name": "LAB FIT 1",
+    "latitude": 2.416058267,
+    "longitude": 103.827383533,
+    "elevation": 36.9,
+    "floor": 2,
+    "qrCode": "pmjmaps://location?node_id=lab-fit-1&name=LAB%20FIT%201&block=Campus&floor=Level%202"
+  },
+  {
+    "name": "LAB FCCN 1",
+    "latitude": 2.416147683,
+    "longitude": 103.827437617,
+    "elevation": 51.7,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=lab-fccn-1&name=LAB%20FCCN%201&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "LAB FHY 1",
+    "latitude": 2.41620075,
+    "longitude": 103.827465833,
+    "elevation": 38.0,
+    "floor": null,
+    "qrCode": "pmjmaps://location?node_id=lab-fhy-1&name=LAB%20FHY%201&block=Campus&floor=Unknown%20level"
+  },
+  {
+    "name": "LAB CYBER RANGE ACADEMY",
+    "latitude": 2.415631767,
+    "longitude": 103.827371833,
+    "elevation": 51.9,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=lab-cyber-range-academy&name=LAB%20CYBER%20RANGE%20ACADEMY&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "DEWAN MUTIARA UTAMA (DMU)",
+    "latitude": 2.415794217,
+    "longitude": 103.827550833,
+    "elevation": 40.9,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=dewan-mutiara-utama-dmu&name=DEWAN%20MUTIARA%20UTAMA%20%28DMU%29&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "DEWAN MUTIARA 3",
+    "latitude": 2.41590135,
+    "longitude": 103.827561183,
+    "elevation": 39.1,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=dewan-mutiara-3&name=DEWAN%20MUTIARA%203&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "DEWAN MUTIARA 2",
+    "latitude": 2.415885183,
+    "longitude": 103.827669767,
+    "elevation": 40.0,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=dewan-mutiara-2&name=DEWAN%20MUTIARA%202&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "DEWAN MUTIARA 1",
+    "latitude": 2.416019517,
+    "longitude": 103.827647783,
+    "elevation": 37.7,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=dewan-mutiara-1&name=DEWAN%20MUTIARA%201&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "BILIK KULIAH 2 (BK2)",
+    "latitude": 2.4159758,
+    "longitude": 103.827682533,
+    "elevation": 25.0,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=bilik-kuliah-2-bk2&name=BILIK%20KULIAH%202%20%28BK2%29&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "LAB FPR",
+    "latitude": 2.416121767,
+    "longitude": 103.827595283,
+    "elevation": 43.4,
+    "floor": null,
+    "qrCode": "pmjmaps://location?node_id=lab-fpr&name=LAB%20FPR&block=Campus&floor=Unknown%20level"
+  },
+  {
+    "name": "BILIK KULIAH 1 (BK1)",
+    "latitude": 2.416048617,
+    "longitude": 103.827753367,
+    "elevation": 25.4,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=bilik-kuliah-1-bk1&name=BILIK%20KULIAH%201%20%28BK1%29&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "LAB HIBURAN DIGITAL",
+    "latitude": 2.416147717,
+    "longitude": 103.827770917,
+    "elevation": 45.6,
+    "floor": 2,
+    "qrCode": "pmjmaps://location?node_id=lab-hiburan-digital&name=LAB%20HIBURAN%20DIGITAL&block=Campus&floor=Level%202"
+  },
+  {
+    "name": "TECHNOLOGY ENABLED CLASSROOM 1 (TEC1)",
+    "latitude": 2.4161381,
+    "longitude": 103.827845983,
+    "elevation": 46.2,
+    "floor": 2,
+    "qrCode": "pmjmaps://location?node_id=technology-enabled-classroom-1-tec1&name=TECHNOLOGY%20ENABLED%20CLASSROOM%201%20%28TEC1%29&block=Campus&floor=Level%202"
+  },
+  {
+    "name": "UiDM",
+    "latitude": 2.4161256,
+    "longitude": 103.827905217,
+    "elevation": 40.3,
+    "floor": 2,
+    "qrCode": "pmjmaps://location?node_id=uidm&name=UiDM&block=Campus&floor=Level%202"
+  },
+  {
+    "name": "PERPUSTAKAAN NILAM SARI",
+    "latitude": 2.415866717,
+    "longitude": 103.828010683,
+    "elevation": 44.5,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=perpustakaan-nilam-sari&name=PERPUSTAKAAN%20NILAM%20SARI&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "JABATAN TEKNOLOGI MAKLUMAT DAN KOMUNIKASI (JTMK)",
+    "latitude": 2.415437217,
+    "longitude": 103.827640883,
+    "elevation": 37.5,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=jabatan-teknologi-maklumat-dan-komunikasi-jtmk&name=JABATAN%20TEKNOLOGI%20MAKLUMAT%20DAN%20KOMUNIKASI%20%28JTMK%29&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "BILIK KULIAH 17 (BK17)",
+    "latitude": 2.415178517,
+    "longitude": 103.827879267,
+    "elevation": 45.8,
+    "floor": 2,
+    "qrCode": "pmjmaps://location?node_id=bilik-kuliah-17-bk17&name=BILIK%20KULIAH%2017%20%28BK17%29&block=Campus&floor=Level%202"
+  },
+  {
+    "name": "JABATAN KEJURUTERAAN ELEKTRIK (JKE)",
+    "latitude": 2.415179117,
+    "longitude": 103.827920567,
+    "elevation": 44.7,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=jabatan-kejuruteraan-elektrik-jke&name=JABATAN%20KEJURUTERAAN%20ELEKTRIK%20%28JKE%29&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "LAB JURUTEKNIK SAINS",
+    "latitude": 2.41516355,
+    "longitude": 103.827920083,
+    "elevation": 42.8,
+    "floor": 0,
+    "qrCode": "pmjmaps://location?node_id=lab-juruteknik-sains&name=LAB%20JURUTEKNIK%20SAINS&block=Campus&floor=Ground%20Floor"
+  },
+  {
+    "name": "TANDAS PELAJAR LELAKI (BLOCK JKE)",
+    "latitude": 2.41527305,
+    "longitude": 103.8281652,
+    "elevation": 45.8,
+    "floor": 1,
+    "qrCode": "pmjmaps://location?node_id=tandas-pelajar-lelaki-block-jke&name=TANDAS%20PELAJAR%20LELAKI%20%28BLOCK%20JKE%29&block=Campus&floor=Level%201"
+  },
+  {
+    "name": "LAB SISTEM ELEKTRONIK",
+    "latitude": 2.415307383,
+    "longitude": 103.828194733,
+    "elevation": 46.7,
+    "floor": 1,
+    "qrCode": "pmjmaps://location?node_id=lab-sistem-elektronik&name=LAB%20SISTEM%20ELEKTRONIK&block=Campus&floor=Level%201"
+  },
+  {
+    "name": "TANDAS PELAJAR PEREMPUAN (BLOCK JKE)",
+    "latitude": 2.415596383,
+    "longitude": 103.828356617,
+    "elevation": 45.2,
+    "floor": 1,
+    "qrCode": "pmjmaps://location?node_id=tandas-pelajar-perempuan-block-jke&name=TANDAS%20PELAJAR%20PEREMPUAN%20%28BLOCK%20JKE%29&block=Campus&floor=Level%201"
+  },
+  {
+    "name": "LAB MEMBAIKI ELEKTRONIK",
+    "latitude": 2.4156234,
+    "longitude": 103.8283622,
+    "elevation": 43.0,
+    "floor": 2,
+    "qrCode": "pmjmaps://location?node_id=lab-membaiki-elektronik&name=LAB%20MEMBAIKI%20ELEKTRONIK&block=Campus&floor=Level%202"
+  },
+  {
+    "name": "TECHNOLOGY ENABLED COLLABORATIVE CLASSROOM (TECC)",
+    "latitude": 2.415766633,
+    "longitude": 103.828254167,
+    "elevation": 43.3,
+    "floor": 1,
+    "qrCode": "pmjmaps://location?node_id=technology-enabled-collaborative-classroom-tecc&name=TECHNOLOGY%20ENABLED%20COLLABORATIVE%20CLASSROOM%20%28TECC%29&block=Campus&floor=Level%201"
+  },
+  {
+    "name": "BILIK KULIAH 24 (BK24)",
+    "latitude": 2.415815933,
+    "longitude": 103.828292283,
+    "elevation": 40.8,
+    "floor": 2,
+    "qrCode": "pmjmaps://location?node_id=bilik-kuliah-24-bk24&name=BILIK%20KULIAH%2024%20%28BK24%29&block=Campus&floor=Level%202"
+  },
+  {
+    "name": "LAB KUASA ELEKTRONIK",
+    "latitude": 2.415847933,
+    "longitude": 103.828358,
+    "elevation": 45.5,
+    "floor": 2,
+    "qrCode": "pmjmaps://location?node_id=lab-kuasa-elektronik&name=LAB%20KUASA%20ELEKTRONIK&block=Campus&floor=Level%202"
+  }
+]

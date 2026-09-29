@@ -1,0 +1,62 @@
+name: pmjmaps_app
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+version: 1.1.6+18
+
+environment:
+  sdk: ^3.12.2
+
+# Dependencies specify other packages that your package needs in order to work.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  firebase_core: ^4.11.0
+  cloud_firestore: ^6.6.0
+  mobile_scanner: ^7.4.0
+  google_maps_flutter: ^2.18.0
+  camera: ^0.11.0
+  flutter_compass: ^0.8.0
+  geolocator: ^13.0.0
+  video_player: ^2.14.0
+  shared_preferences: ^2.5.5
+  image_picker: ^1.2.3
+  image_cropper: ^12.2.1
+  url_launcher: ^6.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+  flutter_native_splash: ^2.4.8
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/pmj_satellite_maps.jpg
+    - assets/icon/app_icon.png
+    - assets/icon/bug_report_qr.png
+    - assets/videos/splash_video.mp4
+    - assets/data/campus_nodes.json
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  min_sdk_android: 21
+
+flutter_native_splash:
+  color: "#030a24"
+  image: assets/icon/app_icon.png
+  android_12:
+    color: "#030a24"
+    image: assets/icon/app_icon.png
